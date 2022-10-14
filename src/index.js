@@ -30,7 +30,7 @@ const earchCountry = country => {
          <h2 class ="country-name">${country.name.official}</h2>
          <h3><b>Capital</b>: ${country.capital}</h3>
          <h4><b>Population</b>: ${country.population}</h4>
-         <h5><b>Languages</b>: ${Object.values(country.languages)}</h5>
+         <h5><b>Languages</b>: ${Object.values(country.languages)}</h5> 
          </li>`;
     })
     .join('');
