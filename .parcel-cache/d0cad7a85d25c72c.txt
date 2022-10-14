@@ -107,7 +107,7 @@
 89C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\caniuse-lite\data\regions\SB.js133088320704412623 0
 78C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\json5\lib\unicode.js133088320630925715 0
 74C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\clone\.npmignore133088320613785028 0
-49C:\Users\dell\Desktop\Projects\goit-js-hw-10\dist133102142376296347 1
+49C:\Users\dell\Desktop\Projects\goit-js-hw-10\dist133102150738935643 1
 74C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\fclone\README.md133088320615972747 0
 107C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest2.c133088320667854730 0
 73C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\tslib\README.md133088320627138886 0
@@ -172,7 +172,7 @@
 97C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\type-fest\source\async-return-type.d.ts133088320619291269 0
 77C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\type-fest\base.d.ts133088320622686718 0
 89C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\caniuse-lite\data\regions\UA.js133088320709276959 0
-66C:\Users\dell\Desktop\Projects\goit-js-hw-10\src\fetchCountries.js133102137826305340 0
+66C:\Users\dell\Desktop\Projects\goit-js-hw-10\src\fetchCountries.js133102150736850777 0
 100C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\terser\node_modules\commander\package.json133088320616836132 0
 82C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\terser\tools\domprops.js133088320649529140 0
 89C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\fast-glob\out\readers\sync.d.ts133088320662471501 0
@@ -184,7 +184,7 @@
 76C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\js-tokens\index.js133088320615972747 0
 88C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\simplelightbox\demo\index.html133089191581147430 0
 74C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\lodash\fp\pad.js133090252886769622 0
-57C:\Users\dell\Desktop\Projects\goit-js-hw-10\src\index.js133102142374979331 0
+57C:\Users\dell\Desktop\Projects\goit-js-hw-10\src\index.js133102145617315935 0
 86C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\posthtml-render\changelog.md133088320618502140 0
 92C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\caniuse-lite\data\features\apng.js133088320648877262 0
 74C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\lodash\assign.js133090252866058376 0
@@ -4913,7 +4913,7 @@
 100C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\caniuse-lite\data\features\inline-block.js133088320696422860 0
 90C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\@parcel\transformer-html\LICENSE133088320611074630 0
 102C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\caniuse-lite\data\features\input-datetime.js133088320696579127 0
-67C:\Users\dell\Desktop\Projects\goit-js-hw-10\dist\index.975ef6c8.js133102142376185947 0
+67C:\Users\dell\Desktop\Projects\goit-js-hw-10\dist\index.975ef6c8.js133102150738775216 0
 106C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\@parcel\core\test\fixtures\main-mjs\package.json133088320684814798 0
 99C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\caniuse-lite\data\features\input-event.js133088320696579127 0
 105C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\caniuse-lite\data\features\input-file-accept.js133088320696579127 0
@@ -6160,7 +6160,7 @@
 67C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\.bin\svgo133088320721089100 0
 73C:\Users\dell\Desktop\Projects\goit-js-hw-10\node_modules\.bin\terser.ps1133088320721089100 0
 72C:\Users\dell\Desktop\Projects\goit-js-hw-10\dist\index.77a9bc14.css.map133102133331285711 0
-71C:\Users\dell\Desktop\Projects\goit-js-hw-10\dist\index.975ef6c8.js.map133102142376246099 0
+71C:\Users\dell\Desktop\Projects\goit-js-hw-10\dist\index.975ef6c8.js.map133102150738825349 0
 77C:\Users\dell\Desktop\Projects\goit-js-hw-10\assets\actions-config-step-1.png133088312253909205 0
 68C:\Users\dell\Desktop\Projects\goit-js-hw-10\assets\how-it-works.png133088312253969377 0
 69C:\Users\dell\Desktop\Projects\goit-js-hw-10\assets\repo-settings.png133088312254019515 0
